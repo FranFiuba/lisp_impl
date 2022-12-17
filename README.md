@@ -14,4 +14,4 @@ brew install libedit
 
 ## compilation
 
-cc -std=c99 -Wall main.c -ledit -o repl
+cc -std=c99 -Wall main.c lib/mpc.c -ledit -lm -o parsing
