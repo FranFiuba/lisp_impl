@@ -1,2 +1,2 @@
-# lisp_impl
+# Lisp Implementation
 A toy lisp implementation in C
