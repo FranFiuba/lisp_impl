@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 #include <editline/readline.h>
-#include "../lib/mpc.h"
+#include "lib/mpc.h"
 
 // Language 
 const char* LANGUAGE = "                                \
